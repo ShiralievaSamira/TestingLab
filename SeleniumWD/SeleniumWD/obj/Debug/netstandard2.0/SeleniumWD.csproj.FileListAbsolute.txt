@@ -1,0 +1,18 @@
+E:\4 курс\1 семестр\Тестирование\SeleniumWD\SeleniumWD\bin\Debug\netstandard2.0\SeleniumWD.deps.json
+E:\4 курс\1 семестр\Тестирование\SeleniumWD\SeleniumWD\bin\Debug\netstandard2.0\SeleniumWD.dll
+E:\4 курс\1 семестр\Тестирование\SeleniumWD\SeleniumWD\obj\Debug\netstandard2.0\SeleniumWD.csprojAssemblyReference.cache
+E:\4 курс\1 семестр\Тестирование\SeleniumWD\SeleniumWD\obj\Debug\netstandard2.0\SeleniumWD.csproj.CoreCompileInputs.cache
+E:\4 курс\1 семестр\Тестирование\SeleniumWD\SeleniumWD\obj\Debug\netstandard2.0\SeleniumWD.AssemblyInfoInputs.cache
+E:\4 курс\1 семестр\Тестирование\SeleniumWD\SeleniumWD\obj\Debug\netstandard2.0\SeleniumWD.AssemblyInfo.cs
+E:\4 курс\1 семестр\Тестирование\SeleniumWD\SeleniumWD\bin\Debug\netstandard2.0\SeleniumWD.pdb
+E:\4 курс\1 семестр\Тестирование\SeleniumWD\SeleniumWD\obj\Debug\netstandard2.0\SeleniumWD.dll
+E:\4 курс\1 семестр\Тестирование\SeleniumWD\SeleniumWD\obj\Debug\netstandard2.0\SeleniumWD.pdb
+E:\Labs\Testing\SeleniumWD\SeleniumWD\bin\Debug\netstandard2.0\SeleniumWD.deps.json
+E:\Labs\Testing\SeleniumWD\SeleniumWD\bin\Debug\netstandard2.0\SeleniumWD.dll
+E:\Labs\Testing\SeleniumWD\SeleniumWD\bin\Debug\netstandard2.0\SeleniumWD.pdb
+E:\Labs\Testing\SeleniumWD\SeleniumWD\obj\Debug\netstandard2.0\SeleniumWD.csprojAssemblyReference.cache
+E:\Labs\Testing\SeleniumWD\SeleniumWD\obj\Debug\netstandard2.0\SeleniumWD.csproj.CoreCompileInputs.cache
+E:\Labs\Testing\SeleniumWD\SeleniumWD\obj\Debug\netstandard2.0\SeleniumWD.AssemblyInfoInputs.cache
+E:\Labs\Testing\SeleniumWD\SeleniumWD\obj\Debug\netstandard2.0\SeleniumWD.AssemblyInfo.cs
+E:\Labs\Testing\SeleniumWD\SeleniumWD\obj\Debug\netstandard2.0\SeleniumWD.dll
+E:\Labs\Testing\SeleniumWD\SeleniumWD\obj\Debug\netstandard2.0\SeleniumWD.pdb

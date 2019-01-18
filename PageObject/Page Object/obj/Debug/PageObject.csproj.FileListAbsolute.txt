@@ -1,0 +1,24 @@
+E:\Labs\Testing\PageObject\Page Object\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Labs\Testing\PageObject\Page Object\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Labs\Testing\PageObject\Page Object\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Labs\Testing\PageObject\Page Object\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Labs\Testing\PageObject\Page Object\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Labs\Testing\PageObject\Page Object\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Labs\Testing\PageObject\Page Object\bin\Debug\Page Object.dll
+E:\Labs\Testing\PageObject\Page Object\bin\Debug\Page Object.pdb
+E:\Labs\Testing\PageObject\Page Object\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Labs\Testing\PageObject\Page Object\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Labs\Testing\PageObject\Page Object\bin\Debug\nunit.framework.dll
+E:\Labs\Testing\PageObject\Page Object\bin\Debug\WebDriver.dll
+E:\Labs\Testing\PageObject\Page Object\bin\Debug\WebDriver.Support.dll
+E:\Labs\Testing\PageObject\Page Object\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Labs\Testing\PageObject\Page Object\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Labs\Testing\PageObject\Page Object\bin\Debug\nunit.framework.pdb
+E:\Labs\Testing\PageObject\Page Object\bin\Debug\nunit.framework.xml
+E:\Labs\Testing\PageObject\Page Object\bin\Debug\WebDriver.xml
+E:\Labs\Testing\PageObject\Page Object\bin\Debug\WebDriver.Support.xml
+E:\Labs\Testing\PageObject\Page Object\obj\Debug\PageObject.csprojAssemblyReference.cache
+E:\Labs\Testing\PageObject\Page Object\obj\Debug\PageObject.csproj.CoreCompileInputs.cache
+E:\Labs\Testing\PageObject\Page Object\obj\Debug\PageObject.csproj.CopyComplete
+E:\Labs\Testing\PageObject\Page Object\obj\Debug\Page Object.dll
+E:\Labs\Testing\PageObject\Page Object\obj\Debug\Page Object.pdb
