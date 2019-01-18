@@ -12,8 +12,6 @@ namespace FrameworkStep2.Pages
 {
     class ContactPage
     {
-        private const string url = "http://lowcoster.by/airports/";
-
         private IWebDriver driver;
 
         [FindsBy(How = How.XPath, Using = "//input[@id='fscf_name1']")]
@@ -35,11 +33,6 @@ namespace FrameworkStep2.Pages
         {
             this.driver = driver;
             PageFactory.InitElements(this.driver, this);
-        }
-
-        public void OpenPage()
-        {
-            driver.Navigate().GoToUrl(url);
         }
 
         public void SetContacts(string entryName, string entryEmail, string entryPhone)

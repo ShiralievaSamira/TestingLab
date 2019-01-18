@@ -12,8 +12,6 @@ namespace FrameworkStep2.Pages
 {
     class AirlinesPage
     {
-        private const string url = "http://lowcoster.by/airlines/";
-
         private IWebDriver driver;
 
         [FindsBy(How = How.XPath, Using = "//td[@class='buy']")]
@@ -25,11 +23,6 @@ namespace FrameworkStep2.Pages
         {
             this.driver = driver;
             PageFactory.InitElements(this.driver, this);
-        }
-
-        public void OpenPage()
-        {
-            driver.Navigate().GoToUrl(url);
         }
 
         public void ClickButtonBuy()
