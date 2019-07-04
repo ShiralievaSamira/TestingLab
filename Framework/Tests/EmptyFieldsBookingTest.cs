@@ -30,7 +30,8 @@ namespace Framework.Tests
         [Test]
         public void EmptyFieldsBookingPage()
         {
-            steps.OpenStartPage();
+            Paused();
+			steps.OpenStartPage();
             steps.SetArrival("MIL");
             steps.SelectFlightData();
             steps.PassengersDataInBookingPage("Ann", "Smith");
